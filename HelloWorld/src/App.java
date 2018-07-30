@@ -30,7 +30,7 @@ public class App {
  
     public static void main(String[] args) {
          
-        Thing.description = "I am a thing";
+        Thing.description = "I am a thing , from shrutikan21";
          
         Thing.showInfo();
          
